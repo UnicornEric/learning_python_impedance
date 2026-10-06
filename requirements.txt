@@ -1,0 +1,21 @@
+# Notebook environment
+jupyterlab
+ipykernel
+
+# Data science and visualization
+numpy
+pandas
+scipy
+matplotlib
+plotnine
+statsmodels
+scikit-learn
+joblib
+xgboost
+
+# Neural networks
+torch
+torchvision
+
+# Notebook authoring / validation
+nbformat

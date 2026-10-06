@@ -1,0 +1,85 @@
+{
+  "archived_on": "2026-10-05",
+  "files": [
+    {
+      "original_path": "05_ci_linear_models.ipynb",
+      "archived_path": "pre_employment_learning/05_ci_linear_models.ipynb",
+      "sha256": "d616edf4ca9dcdaea5e7b963ad7c48be7bd2cd48b53c0ee0489d7207d746830f"
+    },
+    {
+      "original_path": "06_ci_longitudinal_mixed_models.ipynb",
+      "archived_path": "pre_employment_learning/06_ci_longitudinal_mixed_models.ipynb",
+      "sha256": "fc214881f1e53afefa107c4cc845e1307d6cd3de1e5836fe29a595261e647b7c"
+    },
+    {
+      "original_path": "07_ci_prediction_without_patient_leakage.ipynb",
+      "archived_path": "pre_employment_learning/07_ci_prediction_without_patient_leakage.ipynb",
+      "sha256": "7e99497572b744b0d6a2df4a50921fc40c2385a56903c383bb55faac1586bb27"
+    },
+    {
+      "original_path": "archive/07_systematic_cleaning_and_validation.ipynb",
+      "archived_path": "pre_employment_learning/archive/07_systematic_cleaning_and_validation.ipynb",
+      "sha256": "120ffcaf84b0d04f7e394e67a8bda4e632d1f949eb78de9a9e6f028d04e79eee"
+    },
+    {
+      "original_path": "archive/General Learning/01_data_wrangling_and_cleaning.ipynb",
+      "archived_path": "pre_employment_learning/archive/General Learning/01_data_wrangling_and_cleaning.ipynb",
+      "sha256": "f260180bc2ac9b5f703702f2191ed017a55ae9838c49c6a7dcf5c23d01f44e37"
+    },
+    {
+      "original_path": "archive/General Learning/03_dates_and_longitudinal_data.ipynb",
+      "archived_path": "pre_employment_learning/archive/General Learning/03_dates_and_longitudinal_data.ipynb",
+      "sha256": "de0696323c8b83b3d437c272f1458215fd32e3f53d53da2f89ec535c34e4ff48"
+    },
+    {
+      "original_path": "archive/General Learning/04_ci_matrix_exploration.ipynb",
+      "archived_path": "pre_employment_learning/archive/General Learning/04_ci_matrix_exploration.ipynb",
+      "sha256": "4ae496f575e4818ae0662b9a4ba98953dd2defc4956257a31e2c0bafbce214c6"
+    },
+    {
+      "original_path": "archive/Med-el prep/01_python_to_ml_baseline.ipynb",
+      "archived_path": "pre_employment_learning/archive/Med-el prep/01_python_to_ml_baseline.ipynb",
+      "sha256": "900d2e487c96ff261a9baf3c36ee5eba157f37af4649bcb256b7644227d6cc16"
+    },
+    {
+      "original_path": "archive/Med-el prep/02_confusion_matrices_and_thresholds.ipynb",
+      "archived_path": "pre_employment_learning/archive/Med-el prep/02_confusion_matrices_and_thresholds.ipynb",
+      "sha256": "91b1b9df8496376fe958a741e99fdb67cba624616ee50bdd103f41894165d33b"
+    },
+    {
+      "original_path": "archive/Med-el prep/03_cross_validation_and_tuning.ipynb",
+      "archived_path": "pre_employment_learning/archive/Med-el prep/03_cross_validation_and_tuning.ipynb",
+      "sha256": "44c9c74644622af9a0c8e95ccdde60637d7ae1852571ee9a9b00107e4d4612d9"
+    },
+    {
+      "original_path": "archive/Med-el prep/04_trees_ensembles_and_xgboost.ipynb",
+      "archived_path": "pre_employment_learning/archive/Med-el prep/04_trees_ensembles_and_xgboost.ipynb",
+      "sha256": "fb449534c092a29695f0828a55cf704a7952b231cfa23fd36c2e063c49a1cbbb"
+    },
+    {
+      "original_path": "archive/Med-el prep/05_regression_workflow_with_xgboost.ipynb",
+      "archived_path": "pre_employment_learning/archive/Med-el prep/05_regression_workflow_with_xgboost.ipynb",
+      "sha256": "8f151360ef5aac0d73dd9aefb41f8f483851ec19820cc9e052435b918736acb2"
+    },
+    {
+      "original_path": "agent/AGENTS.md",
+      "archived_path": "pre_employment_learning/course_instructions/AGENTS.md",
+      "sha256": "f2d5191568d9cb746496216f7647ac651571899bcbf17d4cfb448491cdec8c51"
+    },
+    {
+      "original_path": "agent/LEARNING_PLAN.md",
+      "archived_path": "pre_employment_learning/course_instructions/LEARNING_PLAN.md",
+      "sha256": "abf106cc4bdfb94295efe1123eb52622e59f9d138c26ffb0fac89b6bd8bb308c"
+    },
+    {
+      "original_path": "agent/PROGRESS.md",
+      "archived_path": "pre_employment_learning/course_instructions/PROGRESS.md",
+      "sha256": "9b0377560e8bfe8fa552070adb879043f7c59180cf9f22c772317e273de53b40"
+    },
+    {
+      "original_path": "agent/MED_EL_RESEARCH_PATH.md",
+      "archived_path": "pre_employment_learning/course_instructions/MED_EL_RESEARCH_PATH.md",
+      "sha256": "f15a3e5112a1accd30a1a3df5c96fa5c4b33ae1c2ca8473ff8bcf047eafc0c6d"
+    }
+  ]
+}

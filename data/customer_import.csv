@@ -1,0 +1,13 @@
+customer_id,age_raw,region_raw,segment_raw,marketing_opt_in
+IMP001,34, North , Consumer ,True
+IMP002,51,SOUTH,enterprise,False
+IMP003,,east,small business,True
+IMP004,unknown, West,CONSUMER,False
+IMP005,-4,north,consumer,True
+IMP006,145,central,enterprise,False
+IMP007, 42 ,EAST ,small_business,True
+IMP008,29,south,consumer,False
+IMP009,63,west,enterprise,True
+IMP010,38,north,consumer,False
+IMP001,34, North , Consumer ,True
+IMP002,52,SOUTH,enterprise,False
